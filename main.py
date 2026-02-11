@@ -384,6 +384,9 @@ def create_canvas(window):
         highlightbackground='#bdc3c7'
     )
     canvas.pack(pady=10)
+    if tree is None:
+        canvas.create_text(490, 225, text="AVL Tree is Empty", font=('Arial', 18, 'bold'), fill='#95a5a6')
+        canvas.create_text(490, 260,text="Start by inserting a value... ",font=('Arial', 12),fill='#bdc3c7')
     return canvas
 
 def control_panel(window):
@@ -449,3 +452,4 @@ info_label = tk.Label(
 info_label.pack(pady=10)
 
 window.mainloop()
+
