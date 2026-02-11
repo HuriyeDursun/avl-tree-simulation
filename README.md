@@ -32,6 +32,12 @@ The application is designed for **educational purposes**, helping students under
 
 ---
 
+## 📸 Interface Preview
+
+![AVL Tree Simulation](screenshot.png)
+
+---
+
 ## 🖥️ Technologies Used
 
 - **Python 3**
@@ -99,10 +105,7 @@ This project is suitable for:
 
 ## 👤 Author
 
-Developed by **Huriye Dursun**
-
-Computer Engineering Student
-
+Huriye Dursun – Computer Engineering Student  
 AVL Tree Visualization Project
 
 ---
