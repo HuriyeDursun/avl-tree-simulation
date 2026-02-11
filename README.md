@@ -56,7 +56,7 @@ No external libraries are required.
    ```bash
    python avl_tree_simulation.py
    ``` 
-
+ ---
 ## 🎮 How to Use
 
 - Enter an integer value in the input box.
@@ -77,6 +77,8 @@ No external libraries are required.
 
 Rotation messages will be displayed automatically when rebalancing occurs.
 
+---
+
 ## 📚 Educational Purpose
 
 This project is suitable for:
@@ -86,17 +88,24 @@ This project is suitable for:
 - Demonstrating tree balancing and rotations  
 - Classroom demonstrations or self-study
 
+---
+
 ## 📌 Notes
 - Duplicate values are not allowed.
 - All rotations are handled automatically.
 - The tree always maintains AVL balance properties.
 
+---
+
 ## 👤 Author
+
 Developed by **Huriye Dursun**
 
 Computer Engineering Student
 
 AVL Tree Visualization Project
+
+---
 
 ## 📜 License
 This project is open-source and available for educational use. You may modify and distribute it with proper attribution.
